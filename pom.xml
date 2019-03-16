@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.github.jank</groupId>
+    <groupId>com.github.jankwq</groupId>
     <artifactId>yalta</artifactId>
     <packaging>jar</packaging>
     <version>1.0-SNAPSHOT</version>
@@ -118,6 +118,12 @@
             <groupId>com.github.pagehelper</groupId>
             <artifactId>pagehelper</artifactId>
             <version>5.1.7</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.google.guava</groupId>
+            <artifactId>guava</artifactId>
+            <version>21.0</version>
         </dependency>
     </dependencies>
 
